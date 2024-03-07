@@ -3,20 +3,17 @@
 
 ## Table of Contents
 - [Summary](#summary)
-- [Features ](#features)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [Questions](#questions)
 - [License](#license)
 
 ### Summary 
 
-The challenge is to build an API for a social network using Express.js, MongoDB, and Mongoose. Users can share thoughts, react to friends' thoughts, and manage friend lists. A video demonstrating the app's functionality must be included in the README.
-
+This project entails developing an API for a social network utilizing Express.js, MongoDB, and Mongoose. Users are empowered to share thoughts, react to friends' thoughts, and manage friend lists. 
 
 ## User Story
 
@@ -38,7 +35,8 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Installation 
-Put this code in the terminal to run the app:
+To run the application, execute the following commands in the terminal:
+
 
 npm install 
 
@@ -58,7 +56,7 @@ Input Routes located in routes and controllers folder.
 
 
 ## Questions
-Please reach out with any questions or concerns: [E-mail](mailto:), [E-mail](mailto:aprilhunt00.ah@gmail.com)
+Please reach out with any questions or concerns: [E-mail](mailto:aprilhunt00.ah@gmail.com)
 
 ## License 
 This project is licensed under the MIT License.
